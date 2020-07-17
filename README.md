@@ -10,7 +10,7 @@ Nano world is a simple app to show a map with the peers of the nano cryptocurren
 
 ## Requirements
 
-Back-end must be running in order to the front-end to work.
+Back-end must be running in order to the front-end to work.(https://github.com/caiovini/nano-world-backend)
 
 ## `npm run docker`
 
