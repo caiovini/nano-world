@@ -13,7 +13,8 @@ Nano world is a simple app to show a map with the peers of the nano cryptocurren
 Back-end must be running in order to the front-end to work.
 
 java: https://github.com/caiovini/nano-world-backend<br/>
-python: https://github.com/caiovini/nano-world-backend-python
+python: https://github.com/caiovini/nano-world-backend-python<br/>
+golang: https://github.com/caiovini/nano-world-backend-golang<br/> 
 
 ## `npm run docker`
 
