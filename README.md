@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-Nano world is a simple app to show a map with the peers of the nano cryptocurrency peers.
+Nano world is a simple app to show a map with the peers of the nano cryptocurrency.
 
 ## Requirements
 
